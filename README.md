@@ -1,1 +1,1 @@
-# Exerc-cios-PHP
+# Exercícios-PHP
