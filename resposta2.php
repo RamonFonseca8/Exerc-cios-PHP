@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-<h1>Cadastro do Aluno<h1>
+<h1>Formulário de Contato<h1>
     
     <form method="POST">
        
